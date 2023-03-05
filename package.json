@@ -1,0 +1,22 @@
+{
+  "name": "js_slotmachine",
+  "version": "1.0.0",
+  "description": "Simple Web_Project with the same idea as Python SlotMachine",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udiscopotato/Js_SlotMachine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udiscopotato/Js_SlotMachine/issues"
+  },
+  "homepage": "https://github.com/udiscopotato/Js_SlotMachine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
